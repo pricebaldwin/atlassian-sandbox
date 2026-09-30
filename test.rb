@@ -1,1 +1,2 @@
-p 'Hello, World!'
+name = 'Alice'
+p "Hello, #{name}!"
